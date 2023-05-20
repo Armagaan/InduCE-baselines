@@ -1,0 +1,19 @@
+__pycache__/
+.vscode/
+data/
+datasets/
+models/
+results/
+output/
+outputs/
+cfgnn_model_weights/
+distillation/
+explanation/
+temp/
+logs/
+saved_models/
+terminal_logs/
+Photo/
+
+# exception
+!baselines/cfsqr/models
